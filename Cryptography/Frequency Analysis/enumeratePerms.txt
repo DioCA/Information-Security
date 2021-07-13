@@ -1,0 +1,5 @@
+TOTAL PERMUTATION:  36!
+1 PERMUTATION/4.9GHz on each of the 32 Threads: 32 permutations/sec
+1 year has 60*60*24*365 = 31536000 sec: 32*31536000 = 1009152000 permutations/year
+-----------------------------------------------------------------------------------
+TOTAL TIME: 36!/1009152000 = 3.6861972e+31 years
